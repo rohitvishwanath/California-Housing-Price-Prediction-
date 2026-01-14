@@ -22,7 +22,8 @@ A machine learning project that applies **Linear Regression** to predict housing
 The model was evaluated using:
 - **Mean Squared Error (MSE)**
 - **Root Mean Squared Error (RMSE)**
-- **R² Score**
+- **R² Score** : 0.59
+  
 
 These metrics indicate how accurately the model predicts housing prices and how well it generalizes to unseen data.
 
